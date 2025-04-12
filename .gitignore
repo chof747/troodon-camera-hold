@@ -1,0 +1,6 @@
+**/*.FCBak
+stl/
+step/
+3mf/
+tests
+simulation/
